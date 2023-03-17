@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[160],{6510:e=>{e.exports=JSON.parse('{"label":"kaixin","permalink":"/blog/tags/kaixin","allTagsPath":"/blog/tags","count":1}')}}]);
